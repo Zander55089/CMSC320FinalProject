@@ -1,0 +1,14 @@
+1. Oil Prices vs. US Bonds 
+Our analysis reveals a strong negative correlation between oil prices and US bonds, with a Pearson correlation coefficient of approximately -0.94. 
+This indicates that as oil prices increase, US bond values tend to decline, and vice versa. This inverse relationship suggests that investors may shift capital
+between oil markets and bonds depending on economic conditions, reinforcing the idea that oil price fluctuations significantly impact fixed-income investments.
+
+2. Oil Prices vs. Alternative Oil 
+Despite a statistically significant p-value of 0.0, the correlation between oil prices and alternative oil stocks (Exxon) is extremely weak (r ≈ 0.037). 
+This suggests that oil price changes do not directly influence Exxon’s stock in a linear way. Other factors, such as corporate strategies, supply chain stability,
+and investor sentiment, likely play a larger role in Exxon’s stock performance than crude oil prices alone.
+
+3. Oil Prices and Other Macroeconomic Factors 
+Oil prices exhibit strong positive correlations with the Euro (0.84), Gold (0.72), and Natural Gas (0.75). These relationships suggest that oil prices and these assets
+move in tandem, likely due to shared economic drivers such as inflation, global trade trends, and market speculation. Investors and policymakers can use this insight to
+anticipate changes in energy and commodity markets, as well as hedge against inflationary pressures.
